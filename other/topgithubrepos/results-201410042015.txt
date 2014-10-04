@@ -1,0 +1,160 @@
+go (60732)
+--
+(15531)	docker/docker	https://github.com/docker/docker
+	Docker - the open-source application container engine
+(9308)	limetext/lime	https://github.com/limetext/lime
+	Experimental Sublime Text clone
+(5433)	go-martini/martini	https://github.com/go-martini/martini
+	Classy web framework for Go
+(4863)	syncthing/syncthing	https://github.com/syncthing/syncthing
+	Open Source Continuous File Synchronization
+(4681)	google/cayley	https://github.com/google/cayley
+	An open-source graph database
+(4372)	astaxie/build-web-application-with-golang	https://github.com/astaxie/build-web-application-with-golang
+	A golang ebook intro how to build a web with golang
+(4315)	coreos/etcd	https://github.com/coreos/etcd
+	A highly-available key value store for shared configuration and service discovery
+(4253)	gogits/gogs	https://github.com/gogits/gogs
+	Gogs(Go Git Service) is a painless self-hosted Git Service written in Go.
+(4133)	revel/revel	https://github.com/revel/revel
+	A high productivity, full-stack web framework for the Go language.
+(3843)	GoogleCloudPlatform/kubernetes	https://github.com/GoogleCloudPlatform/kubernetes
+	Container Cluster Manager
+
+java (57954)
+--
+(8453)	elasticsearch/elasticsearch	https://github.com/elasticsearch/elasticsearch
+	Open Source, Distributed, RESTful Search Engine
+(8376)	nathanmarz/storm	https://github.com/nathanmarz/storm
+	Distributed and fault-tolerant realtime computation: stream processing, continuous computation, distributed RPC, and more
+(6321)	jfeinstein10/SlidingMenu	https://github.com/jfeinstein10/SlidingMenu
+	An Android library that allows you to easily create applications with slide-in menus. You may use it in your Android apps provided that you cite this project and include the license in your app. Thanks!
+(6259)	JakeWharton/ActionBarSherlock	https://github.com/JakeWharton/ActionBarSherlock
+	Action bar implementation which uses the native action bar on Android 4.0+ and a custom implementation on pre-4.0 through a single API and theme.
+(5997)	nostra13/Android-Universal-Image-Loader	https://github.com/nostra13/Android-Universal-Image-Loader
+	Powerful and flexible library for loading, caching and displaying images on Android.
+(4767)	github/android	https://github.com/github/android
+	GitHub Android App
+(4684)	libgdx/libgdx	https://github.com/libgdx/libgdx
+	Desktop/Android/HTML5/iOS Java game development framework
+(4443)	loopj/android-async-http	https://github.com/loopj/android-async-http
+	An Asynchronous HTTP Library for Android
+(4346)	google/iosched	https://github.com/google/iosched
+	
+(4308)	JakeWharton/Android-ViewPagerIndicator	https://github.com/JakeWharton/Android-ViewPagerIndicator
+	Paging indicator widgets compatible with the ViewPager from the Android Support Library and ActionBarSherlock. Originally based on Patrik Åkerfeldt's ViewFlow.
+
+scala (32352)
+--
+(5270)	playframework/playframework	https://github.com/playframework/playframework
+	Play Framework
+(5239)	PredictionIO/PredictionIO	https://github.com/PredictionIO/PredictionIO
+	PredictionIO, a machine learning server for software developers and data engineers.
+(3344)	takezoe/gitbucket	https://github.com/takezoe/gitbucket
+	The easily installable Github clone powered by Scala
+(3041)	akka/akka	https://github.com/akka/akka
+	Akka Project
+(3018)	scala/scala	https://github.com/scala/scala
+	The Scala programming language
+(2875)	twitter/finagle	https://github.com/twitter/finagle
+	A fault tolerant, protocol-agnostic RPC system
+(2521)	twitter/kestrel	https://github.com/twitter/kestrel
+	simple, distributed message queue system (inactive)
+(2499)	lhartikk/ArnoldC	https://github.com/lhartikk/ArnoldC
+	Arnold Schwarzenegger based programming language
+(2288)	twitter/flockdb	https://github.com/twitter/flockdb
+	A distributed, fault-tolerant graph database
+(2257)	wordnik/swagger-core	https://github.com/wordnik/swagger-core
+	Examples and server integrations for generating the Swagger API Specification, which enables easy access to your REST API
+
+clojure (26454)
+--
+(6555)	LightTable/LightTable	https://github.com/LightTable/LightTable
+	The Light Table IDE
+(3483)	technomancy/leiningen	https://github.com/technomancy/leiningen
+	Automate Clojure projects without setting your hair on fire.
+(3476)	clojure/clojurescript	https://github.com/clojure/clojurescript
+	Clojure to JS compiler
+(2775)	swannodette/om	https://github.com/swannodette/om
+	ClojureScript interface to Facebook's React
+(2231)	weavejester/compojure	https://github.com/weavejester/compojure
+	A concise routing library for Ring/Clojure
+(1981)	overtone/overtone	https://github.com/overtone/overtone
+	Collaborative Programmable Music 
+(1794)	functional-koans/clojure-koans	https://github.com/functional-koans/clojure-koans
+	A set of exercises for learning Clojure
+(1682)	aphyr/riemann	https://github.com/aphyr/riemann
+	A network event stream processing system, in Clojure.
+(1323)	incanter/incanter	https://github.com/incanter/incanter
+	Clojure-based, R-like statistical computing and graphics environment for the JVM
+(1154)	pedestal/pedestal	https://github.com/pedestal/pedestal
+	The Pedestal web application framework
+
+javascript (247225)
+--
+(32371)	joyent/node	https://github.com/joyent/node
+	evented I/O for v8 javascript
+(31959)	jquery/jquery	https://github.com/jquery/jquery
+	jQuery JavaScript Library
+(30269)	mbostock/d3	https://github.com/mbostock/d3
+	A JavaScript visualization library for HTML and SVG.
+(29472)	angular/angular.js	https://github.com/angular/angular.js
+	HTML enhanced for web apps
+(26899)	h5bp/html5-boilerplate	https://github.com/h5bp/html5-boilerplate
+	A professional front-end template for building fast, robust, and adaptable web apps or sites.
+(21854)	bartaz/impress.js	https://github.com/bartaz/impress.js
+	It's a presentation framework based on the power of CSS3 transforms and transitions in modern browsers and inspired by the idea behind prezi.com.
+(19259)	jashkenas/backbone	https://github.com/jashkenas/backbone
+	Give your JS App some Backbone with Models, Views, Collections, and Events
+(18919)	meteor/meteor	https://github.com/meteor/meteor
+	Meteor, an ultra-simple, database-everywhere, data-on-the-wire, pure-Javascript web framework.
+(18117)	moment/moment	https://github.com/moment/moment
+	Parse, validate, manipulate, and display dates in javascript.
+(18106)	adobe/brackets	https://github.com/adobe/brackets
+	An open source code editor for the web, written in JavaScript, HTML and CSS.
+
+python (88817)
+--
+(11918)	jakubroztocil/httpie	https://github.com/jakubroztocil/httpie
+	HTTPie is a command line HTTP client, a user-friendly cURL replacement.
+(11375)	django/django	https://github.com/django/django
+	The Web framework for perfectionists with deadlines.
+(11195)	kennethreitz/requests	https://github.com/kennethreitz/requests
+	Python HTTP Requests for Humans™.
+(11039)	mitsuhiko/flask	https://github.com/mitsuhiko/flask
+	A microframework based on Werkzeug, Jinja2 and good intentions
+(7840)	tornadoweb/tornado	https://github.com/tornadoweb/tornado
+	Tornado is a Python web framework and asynchronous networking library, originally developed at FriendFeed.
+(7837)	ansible/ansible	https://github.com/ansible/ansible
+	Ansible is a radically simple IT automation platform that makes your applications and systems easier to deploy. Avoid writing scripts or custom code to deploy and update your applications— automate in a language that approaches plain English, using SSH, with no agents to install on remote systems.
+(7291)	numbbbbb/the-swift-programming-language-in-chinese	https://github.com/numbbbbb/the-swift-programming-language-in-chinese
+	中文版 Apple 官方 Swift 教程《The Swift Programming Language》
+(7114)	reddit/reddit	https://github.com/reddit/reddit
+	the code that powers reddit.com
+(6783)	vinta/awesome-python	https://github.com/vinta/awesome-python
+	A curated list of awesome Python frameworks, libraries and software
+(6425)	CamDavidsonPilon/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers	https://github.com/CamDavidsonPilon/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers
+	aka "Bayesian Methods for Hackers": An introduction to Bayesian methods + probabilistic programming with a computation/understanding-first, mathematics-second point of view. All in pure Python ;)  
+
+ruby (130561)
+--
+(23393)	rails/rails	https://github.com/rails/rails
+	Ruby on Rails
+(19349)	Homebrew/homebrew	https://github.com/Homebrew/homebrew
+	The missing package manager for OS X.
+(16833)	jekyll/jekyll	https://github.com/jekyll/jekyll
+	Jekyll is a blog-aware, static site generator in Ruby
+(14002)	gitlabhq/gitlabhq	https://github.com/gitlabhq/gitlabhq
+	Open source software to collaborate on code. Follow us on twitter @gitlabhq
+(12054)	discourse/discourse	https://github.com/discourse/discourse
+	A platform for community discussion. Free, open, simple.
+(11424)	plataformatec/devise	https://github.com/plataformatec/devise
+	Flexible authentication solution for Rails with Warden.
+(9508)	diaspora/diaspora	https://github.com/diaspora/diaspora
+	Distributed and contextual social networking
+(8333)	imathis/octopress	https://github.com/imathis/octopress
+	Octopress is an obsessively designed framework for Jekyll blogging. It’s easy to configure and easy to deploy. Sweet huh?
+(7979)	cantino/huginn	https://github.com/cantino/huginn
+	Build agents that monitor and act on your behalf.  Your agents are standing by!
+(7686)	mitchellh/vagrant	https://github.com/mitchellh/vagrant
+	Vagrant is a tool for building and distributing development environments.

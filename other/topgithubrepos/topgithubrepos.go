@@ -17,10 +17,11 @@ type Repository struct {
 	Homepage      string
 	WatchersCount int `json:"watchers_count"`
 	Language      string
+	HtmlUrl       string `json:"html_url"`
 }
 
 func (r *Repository) String() string {
-	return fmt.Sprintf("(%d)\t%s - %s", r.WatchersCount, r.FullName, r.Description)
+	return fmt.Sprintf("(%d)\t%s\t%s\n\t%s", r.WatchersCount, r.FullName, r.HtmlUrl, r.Description)
 }
 
 func GetTopRepos(language string, limit int) (string, int) {
