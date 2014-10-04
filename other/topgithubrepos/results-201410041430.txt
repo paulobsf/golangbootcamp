@@ -1,0 +1,90 @@
+go (60724)
+--
+(15529)	docker/docker - Docker - the open-source application container engine
+(9306)	limetext/lime - Experimental Sublime Text clone
+(5432)	go-martini/martini - Classy web framework for Go
+(4864)	syncthing/syncthing - Open Source Continuous File Synchronization
+(4679)	google/cayley - An open-source graph database
+(4371)	astaxie/build-web-application-with-golang - A golang ebook intro how to build a web with golang
+(4315)	coreos/etcd - A highly-available key value store for shared configuration and service discovery
+(4253)	gogits/gogs - Gogs(Go Git Service) is a painless self-hosted Git Service written in Go.
+(4133)	revel/revel - A high productivity, full-stack web framework for the Go language.
+(3842)	GoogleCloudPlatform/kubernetes - Container Cluster Manager
+
+java (57947)
+--
+(8452)	elasticsearch/elasticsearch - Open Source, Distributed, RESTful Search Engine
+(8376)	nathanmarz/storm - Distributed and fault-tolerant realtime computation: stream processing, continuous computation, distributed RPC, and more
+(6319)	jfeinstein10/SlidingMenu - An Android library that allows you to easily create applications with slide-in menus. You may use it in your Android apps provided that you cite this project and include the license in your app. Thanks!
+(6259)	JakeWharton/ActionBarSherlock - Action bar implementation which uses the native action bar on Android 4.0+ and a custom implementation on pre-4.0 through a single API and theme.
+(5996)	nostra13/Android-Universal-Image-Loader - Powerful and flexible library for loading, caching and displaying images on Android.
+(4767)	github/android - GitHub Android App
+(4683)	libgdx/libgdx - Desktop/Android/HTML5/iOS Java game development framework
+(4443)	loopj/android-async-http - An Asynchronous HTTP Library for Android
+(4347)	google/iosched - 
+(4305)	JakeWharton/Android-ViewPagerIndicator - Paging indicator widgets compatible with the ViewPager from the Android Support Library and ActionBarSherlock. Originally based on Patrik Ã…kerfeldt's ViewFlow.
+
+scala (32348)
+--
+(5269)	playframework/playframework - Play Framework
+(5239)	PredictionIO/PredictionIO - PredictionIO, a machine learning server for software developers and data engineers.
+(3344)	takezoe/gitbucket - The easily installable Github clone powered by Scala
+(3040)	akka/akka - Akka Project
+(3016)	scala/scala - The Scala programming language
+(2875)	twitter/finagle - A fault tolerant, protocol-agnostic RPC system
+(2521)	twitter/kestrel - simple, distributed message queue system (inactive)
+(2499)	lhartikk/ArnoldC - Arnold Schwarzenegger based programming language
+(2288)	twitter/flockdb - A distributed, fault-tolerant graph database
+(2257)	wordnik/swagger-core - Examples and server integrations for generating the Swagger API Specification, which enables easy access to your REST API
+
+clojure (26449)
+--
+(6554)	LightTable/LightTable - The Light Table IDE
+(3483)	technomancy/leiningen - Automate Clojure projects without setting your hair on fire.
+(3476)	clojure/clojurescript - Clojure to JS compiler
+(2773)	swannodette/om - ClojureScript interface to Facebook's React
+(2231)	weavejester/compojure - A concise routing library for Ring/Clojure
+(1979)	overtone/overtone - Collaborative Programmable Music 
+(1794)	functional-koans/clojure-koans - A set of exercises for learning Clojure
+(1682)	aphyr/riemann - A network event stream processing system, in Clojure.
+(1323)	incanter/incanter - Clojure-based, R-like statistical computing and graphics environment for the JVM
+(1154)	pedestal/pedestal - The Pedestal web application framework
+
+javascript (247183)
+--
+(32362)	joyent/node - evented I/O for v8 javascript
+(31956)	jquery/jquery - jQuery JavaScript Library
+(30264)	mbostock/d3 - A JavaScript visualization library for HTML and SVG.
+(29468)	angular/angular.js - HTML enhanced for web apps
+(26897)	h5bp/html5-boilerplate - A professional front-end template for building fast, robust, and adaptable web apps or sites.
+(21847)	bartaz/impress.js - It's a presentation framework based on the power of CSS3 transforms and transitions in modern browsers and inspired by the idea behind prezi.com.
+(19257)	jashkenas/backbone - Give your JS App some Backbone with Models, Views, Collections, and Events
+(18916)	meteor/meteor - Meteor, an ultra-simple, database-everywhere, data-on-the-wire, pure-Javascript web framework.
+(18116)	moment/moment - Parse, validate, manipulate, and display dates in javascript.
+(18100)	adobe/brackets - An open source code editor for the web, written in JavaScript, HTML and CSS.
+
+python (88789)
+--
+(11916)	jakubroztocil/httpie - HTTPie is a command line HTTP client, a user-friendly cURL replacement.
+(11373)	django/django - The Web framework for perfectionists with deadlines.
+(11192)	kennethreitz/requests - Python HTTP Requests for Humansâ„¢.
+(11036)	mitsuhiko/flask - A microframework based on Werkzeug, Jinja2 and good intentions
+(7840)	tornadoweb/tornado - Tornado is a Python web framework and asynchronous networking library, originally developed at FriendFeed.
+(7833)	ansible/ansible - Ansible is a radically simple IT automation platform that makes your applications and systems easier to deploy. Avoid writing scripts or custom code to deploy and update your applicationsâ€” automate in a language that approaches plain English, using SSH, with no agents to install on remote systems.
+(7286)	numbbbbb/the-swift-programming-language-in-chinese - ä¸­æ–‡ç‰ˆ Apple å®˜æ–¹ Swift æ•™ç¨‹ã€ŠThe Swift Programming Languageã€‹
+(7107)	reddit/reddit - the code that powers reddit.com
+(6781)	vinta/awesome-python - A curated list of awesome Python frameworks, libraries and software
+(6425)	CamDavidsonPilon/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers - aka "Bayesian Methods for Hackers": An introduction to Bayesian methods + probabilistic programming with a computation/understanding-first, mathematics-second point of view. All in pure Python ;)  
+
+ruby (130544)
+--
+(23394)	rails/rails - Ruby on Rails
+(19346)	Homebrew/homebrew - The missing package manager for OS X.
+(16827)	jekyll/jekyll - Jekyll is a blog-aware, static site generator in Ruby
+(14001)	gitlabhq/gitlabhq - Open source software to collaborate on code. Follow us on twitter @gitlabhq
+(12050)	discourse/discourse - A platform for community discussion. Free, open, simple.
+(11423)	plataformatec/devise - Flexible authentication solution for Rails with Warden.
+(9507)	diaspora/diaspora - Distributed and contextual social networking
+(8331)	imathis/octopress - Octopress is an obsessively designed framework for Jekyll blogging. Itâ€™s easy to configure and easy to deploy. Sweet huh?
+(7979)	cantino/huginn - Build agents that monitor and act on your behalf.  Your agents are standing by!
+(7686)	mitchellh/vagrant - Vagrant is a tool for building and distributing development environments.
